@@ -1,4 +1,4 @@
-![plot](logo.png)
+![plot](.ClemersonAssuncao/logo.png)
 
 ### Hi there 👋
 
