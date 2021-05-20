@@ -1,4 +1,6 @@
-![media](Media.gif)
+<p align="center">
+  <img src="Media.gif" />
+</p>
 
 ### Hi there 👋
 
