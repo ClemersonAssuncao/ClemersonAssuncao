@@ -1,4 +1,4 @@
-![plot](logo.PNG)
+![media](Media.gif)
 
 ### Hi there 👋
 
