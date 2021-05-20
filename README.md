@@ -1,4 +1,4 @@
-![plot](./logo.png)
+![plot](logo.png)
 
 ### Hi there 👋
 
