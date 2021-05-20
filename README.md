@@ -1,3 +1,5 @@
+![plot](./logo.png)
+
 ### Hi there 👋
 
 <!--
