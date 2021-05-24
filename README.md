@@ -9,6 +9,10 @@ In the future I want to contribute with Open Source codes.
 
 ## Languages and Tools
 
+<div>
+  <img style="margin-right: 30px" src="javascript.png"/>
+  <img style="margin-right: 30px" src="javascript.png"/>
+</div>
 
 <div align="center">
   <kbd>
