@@ -1,20 +1,14 @@
-<div align="center" style='width:100px;border: 1px solid #000;'>
-  <img src="Media.gif" />
+
+<img src="programer.png" align="right" />
+
+# Hi, I'm Clemerson
+
+
+I am a Full Stack developer with a lot of knowledge in PL-SQL and JavaScript. I am always in search of new knowledge. 
+In the future I want to contribute with Open Source codes.
+
+<div align="center">
+  <kbd>
+    <img src="Media.gif" width='50%' />
+  </kbd>
 </div>
-
-### Hi there 👋
-
-<!--
-**ClemersonAssuncao/ClemersonAssuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
