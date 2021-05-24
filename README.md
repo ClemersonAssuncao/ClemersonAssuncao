@@ -9,10 +9,14 @@ In the future I want to contribute with Open Source codes.
 
 ## Languages and Tools
 
-<div>
-  <img style="margin-right: 30px" src="javascript.png"/>
-  <img style="margin-right: 30px" src="javascript.png"/>
-</div>
+![logo](javascript.png)
+![logo](html-5.png)
+![logo](python.png)
+![logo](java.png)
+![logo](sql.png)
+![logo](php.png)
+![logo](github.png)
+
 
 <div align="center">
   <kbd>
