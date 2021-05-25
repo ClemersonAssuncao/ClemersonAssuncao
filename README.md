@@ -15,13 +15,14 @@ In the future I want to contribute with Open Source codes.
 ![logo](java.png)
 ![logo](sql.png)
 ![logo](github.png)
-![logo](python.png)
-![logo](django.png)
+![logo](visual_code.png)
 
 ## Languages and Tools I've ever used
 
 ![logo](php.png)
 ![logo](lsp.png)
+![logo](python.png)
+![logo](django.png)
 
 ##
 
