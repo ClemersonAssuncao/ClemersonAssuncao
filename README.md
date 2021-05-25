@@ -7,19 +7,21 @@
 I am a Full Stack developer with a lot of knowledge in PL-SQL and JavaScript. I am always in search of new knowledge. 
 In the future I want to contribute with Open Source codes.
 
-## Languages and Tools
+## Languages and Tools I currently use
 
-![logo](javascript.png)
 ![logo](html-5.png)
-![logo](python.png)
+![logo](css.png)
+![logo](javascript.png)
 ![logo](java.png)
 ![logo](sql.png)
-![logo](php.png)
 ![logo](github.png)
+![logo](python.png)
 ![logo](django.png)
-![logo](css.png)
 
-##
+## Languages and Tools I've ever used
+
+![logo](php.png)
+![logo](lsp.png)
 
 <div align="center">
   <kbd>
