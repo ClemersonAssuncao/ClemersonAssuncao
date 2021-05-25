@@ -16,6 +16,7 @@ In the future I want to contribute with Open Source codes.
 ![logo](sql.png)
 ![logo](php.png)
 ![logo](github.png)
+![logo](django.png)
 
 ##
 
