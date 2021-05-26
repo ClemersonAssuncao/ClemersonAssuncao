@@ -1,5 +1,5 @@
 
-<img src="programer.png" align="right" />
+<img src="readme-images/programer.png" align="right" />
 
 # Hi, I'm Clemerson
 
@@ -28,6 +28,6 @@ In the future I want to contribute with Open Source codes.
 
 <div align="center">
   <kbd>
-    <img src="Media.gif" width='50%' />
+    <img src="readme-images/Media.gif" width='50%' />
   </kbd>
 </div>
