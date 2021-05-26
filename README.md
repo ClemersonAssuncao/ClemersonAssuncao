@@ -9,20 +9,20 @@ In the future I want to contribute with Open Source codes.
 
 ## Languages and Tools I currently use
 
-![logo](html-5.png)
-![logo](css.png)
-![logo](javascript.png)
-![logo](java.png)
-![logo](sql.png)
-![logo](github.png)
-![logo](visual_code.png)
+![logo](readme-images/html-5.png)
+![logo](readme-images/css.png)
+![logo](readme-images/javascript.png)
+![logo](readme-images/java.png)
+![logo](readme-images/sql.png)
+![logo](readme-images/github.png)
+![logo](readme-images/visual_code.png)
 
 ## Languages and Tools I've ever used
 
-![logo](php.png)
-![logo](lsp.png)
-![logo](python.png)
-![logo](django.png)
+![logo](readme-images/php.png)
+![logo](readme-images/lsp.png)
+![logo](readme-images/python.png)
+![logo](readme-images/django.png)
 
 ##
 
