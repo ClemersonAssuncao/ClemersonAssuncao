@@ -51,11 +51,11 @@ It’s how I experiment with creativity, UI logic, and state-driven architecture
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=ClemersonAssuncao" />
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ClemersonAssuncao&theme=default&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClemersonAssuncao&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ClemersonAssuncao" />
 </p>
+
+> **ℹ️ Note:** The statistics shown above reflect activity from **public repositories only**.  
+> Private contributions, internal work, and corporate projects are not included in GitHub’s public metrics.
 
 ---
 
